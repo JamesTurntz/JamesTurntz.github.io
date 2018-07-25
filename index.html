@@ -7,7 +7,7 @@
 	</head>
 
 	<body>
-
+		<p>styx</p>
 		<iframe id="myiframe" src="http://styx.wpblog.jp/" frameborder="0" scrolling="auto" width="100%" height="100%" onload="load()"></iframe>
 
 		<script>
